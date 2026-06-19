@@ -23,4 +23,4 @@ We reserve the right to update this Privacy Policy to reflect future changes to 
 If you have any questions regarding this Privacy Policy or our software practices, please contact us at:
 •	Email: info@samplefuel.com
 
-<img width="468" height="644" alt="image" src="https://github.com/user-attachments/assets/9a1f4126-1c52-4181-b03a-977e91bbf4eb" />
+
