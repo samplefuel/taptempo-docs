@@ -9,4 +9,3 @@ If you are experiencing bugs, crash loops, interface issues, or have feature req
 * **Response Window:** We do our best to respond to all technical inquiries within 24–48 hours.
 
 ---
-[View our Privacy Policy](privacy)
