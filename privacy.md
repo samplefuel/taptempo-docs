@@ -1,33 +1,20 @@
 Privacy Policy for Tempo Tap BPM
 
-Effective Date: July 1, 2026
+Effective Date: July 10, 2026
 
 Sample Fuel, LLC (“we,” “us,” or “our”) operates the Tempo Tap BPM iOS application. This Privacy Policy explains how information is handled when you use the app.
 
 Information We Collect
 
-Tempo Tap BPM does not require user accounts and does not directly collect, store, transmit, or share personal information.
+Tempo Tap BPM does not require user accounts and does not directly collect, store, transmit, or share your personal information.
 
-Most app functionality operates entirely on your device. Any settings or preferences you create are stored locally on your device.
-
-Advertising
-
-Tempo Tap BPM displays banner advertisements to users of the free version of the app using Google AdMob.
-
-Google may collect certain information automatically to provide and measure advertising, including device identifiers, approximate location derived from IP address, diagnostic information, and advertising-related data, in accordance with Google’s Privacy Policy.
-
-For more information, please visit:
-
-Google Privacy Policy:
-https://policies.google.com/privacy
-
-Users who purchase the Remove Ads in-app purchase will no longer be shown banner advertisements.
+Most app functionality operates entirely on your device. Settings, preferences, and purchased feature status are stored locally or managed through Apple’s App Store services.
 
 In-App Purchases
 
-Tempo Tap BPM offers an optional one-time Remove Ads in-app purchase.
+Tempo Tap BPM offers an optional one-time Upgrade to Pro in-app purchase that unlocks additional features.
 
-Purchases are processed entirely by Apple through the App Store. We do not receive, collect, or store your payment information, credit card details, or billing information.
+All purchases are processed securely by Apple through the App Store. We do not receive, collect, or store your payment information, credit card details, or billing information.
 
 For more information about how Apple handles payment information, please visit:
 
@@ -36,9 +23,9 @@ https://www.apple.com/legal/privacy/
 
 Analytics
 
-Tempo Tap BPM does not use third-party analytics services to track how you use the app.
+Tempo Tap BPM does not use third-party analytics services to collect information about how you use the app.
 
-We do not create user profiles or track users across apps or websites.
+We do not create user profiles or track you across apps or websites.
 
 Crash Reporting
 
@@ -48,7 +35,7 @@ Any such information is handled according to Apple’s privacy practices.
 
 Data Storage
 
-App settings and preferences are stored locally on your device.
+App settings, preferences, and selected options are stored locally on your device.
 
 Removing the app will generally remove associated local data unless it has been backed up through Apple’s services.
 
